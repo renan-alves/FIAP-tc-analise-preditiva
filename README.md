@@ -20,12 +20,10 @@ O objetivo é apoiar a triagem inicial de pacientes, sempre ressaltando que a de
 - Python 3.10
 
 ### Bibliotecas
-Biblioteca
-pandas - pip install pandas
-numpy - pip install numpy
-matplotlib -  pip install matplotlib
-seaborn - pip install seaborn
-scikit-learn - pip install scikit-learn
-shap - pip install shap==0.44.1
-ipywidgets - pip install ipywidgets
-notebook - pip install notebook
+- pandas - pip install pandas
+- numpy - pip install numpy
+- matplotlib -  pip install matplotlib
+- seaborn - pip install seaborn
+- scikit-learn - pip install scikit-learn
+- shap - pip install shap==0.44.1
+- ipywidgets - pip install ipywidgets
